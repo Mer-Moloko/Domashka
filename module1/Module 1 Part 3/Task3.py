@@ -1,0 +1,5 @@
+num = int(input("Number: "))
+print("decimeters: ",num*10)
+print("centimeters: ",num*100)
+print("millimeters: ",num*1000)
+print("mile: ",num*0.00062137)
